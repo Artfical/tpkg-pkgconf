@@ -1,0 +1,25 @@
+{
+ "name": "pkgconf",
+ "version": "2.3.0",
+ "license": "ISC",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "pkgconf-2.3.0.tar.xz"
+ ],
+ "desc": "pkgconf 2.3.0 (pkg-config): finds the compile flags of libraries from their .pc files, including the tOS library packages",
+ "file": "pkgconf-2.3.0.tpkg",
+ "size": 142365,
+ "sha256": "eb4972673d86e2bdd92ac863b4e990076e078f5bf7f5619529e0b6f178a5ad90",
+ "unpacked": 394144,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "bomtool": "bin/bomtool",
+  "pkg-config": "bin/pkg-config",
+  "pkgconf": "bin/pkgconf"
+ }
+}

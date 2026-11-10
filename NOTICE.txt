@@ -1,0 +1,5 @@
+pkgconf 2.3.0 for tOS
+=================
+
+Built from pkgconf-2.3.0.tar.xz (beside this package) on a Linux host with prefix /system/pkg/pkgconf, without changes to the source. License: ISC (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.
